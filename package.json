@@ -1,0 +1,14 @@
+{
+  "name": "soko-alert",
+  "version": "1.0.0",
+  "description": "Alert and chat handler for twitch.tv/waifu",
+  "main": "index.js",
+  "author": "HarbyUK/MrHarby",
+  "license": "None",
+  "private": true,
+  "devDependencies": {
+    "comfy.js": "^1.0.18",
+    "dotenv": "^8.2.0",
+    "dotenv-safe": "^8.2.0"
+  }
+}
